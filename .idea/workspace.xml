@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46f907b0-6552-4244-b3d9-4454ac76ce7d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mEXVl0AUwB0Fi2YtJEP5eMNPAT" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.project.H" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TOSHIBA\Desktop\algorithm_project - Copy\src\com\project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.Main" />
+      <module name="algorithm_project" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f907b0-6552-4244-b3d9-4454ac76ce7d" name="Default Changelist" comment="" />
+      <created>1609059749396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609059749396</updated>
+      <workItem from="1609059757572" duration="12708000" />
+      <workItem from="1609081324141" duration="2919000" />
+      <workItem from="1609134919142" duration="15485000" />
+      <workItem from="1609164935254" duration="11929000" />
+      <workItem from="1609182691655" duration="3712000" />
+      <workItem from="1609223415642" duration="3351000" />
+      <workItem from="1609230075152" duration="12125000" />
+      <workItem from="1609251013192" duration="8030000" />
+      <workItem from="1609303516271" duration="5142000" />
+      <workItem from="1609316119467" duration="14054000" />
+      <workItem from="1609337624654" duration="1844000" />
+      <workItem from="1609396687847" duration="3389000" />
+      <workItem from="1609402804595" duration="7471000" />
+      <workItem from="1609424055381" duration="13191000" />
+      <workItem from="1609484816652" duration="113000" />
+      <workItem from="1609522691870" duration="1865000" />
+      <workItem from="1609758837766" duration="17909000" />
+      <workItem from="1609871285341" duration="2428000" />
+      <workItem from="1609950883187" duration="6298000" />
+      <workItem from="1610014998879" duration="4839000" />
+      <workItem from="1660218940956" duration="1289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
